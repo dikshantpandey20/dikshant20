@@ -61,3 +61,79 @@ font-weight:bold;
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Dikshant</title>
+<style>
+body{
+background:#0b0b0b;
+color:white;
+font-family:Arial,sans-serif;
+padding:40px;
+}
+h1{
+color:gold;
+}
+a{
+color:gold;
+}
+</style>
+</head>
+<body>
+
+<h1>About Dikshant Pandey</h1>
+
+<p>
+Hello, I'm Dikshant Pandey, a student with a strong interest in technology,
+artificial intelligence, and digital innovation.
+</p>
+
+<p>
+I enjoy exploring new ideas, learning modern technologies,
+and building creative projects.
+</p>
+
+<p>
+This website represents my journey, projects, and future ambitions.
+</p>
+
+<a href="index.html">← Back to Home</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chat Online</title>
+<style>
+body{
+background:#0b0b0b;
+color:white;
+font-family:Arial,sans-serif;
+text-align:center;
+padding-top:100px;
+}
+.box{
+background:#151515;
+padding:20px;
+max-width:600px;
+margin:auto;
+border-radius:12px;
+}
+</style>
+</head>
+<body>
+
+<div class="box">
+<h1>Chat Online</h1>
+
+<p>
+Hello! Welcome to Dikshant20 Chat Online.
+How can I assist you today?
+</p>
+
+</div>
+
+</body>
+</html>
